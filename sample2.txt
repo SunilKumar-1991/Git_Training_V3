@@ -1,6 +1,1 @@
 this is sample2
-
-
-GIT revert Commmit1
-
-
